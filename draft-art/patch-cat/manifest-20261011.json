@@ -1,0 +1,55 @@
+{
+  "id": "patch-cat",
+  "name": "Patch Cat",
+  "owner": "Astra",
+  "status": "draft",
+  "approved": false,
+  "created": "2026-10-11",
+  "built_with": "OpenAI Codex (GPT-6), 2026-10-11",
+  "generator": "Built-in imagegen; no external paid API or CLI",
+  "provenance": "Original character draft for Astra, generated from the saved prompt without third-party reference artwork.",
+  "visibility": "private",
+  "scope": "Artwork draft only; not registered, activated, or connected to the app.",
+  "sheet": "sheet-20261011.png",
+  "prompt": "prompt-20261011.md",
+  "size": [
+    256,
+    256
+  ],
+  "moods": [
+    "idle",
+    "blink",
+    "happy",
+    "curious",
+    "worried",
+    "sad",
+    "sick",
+    "alarmed",
+    "sleep"
+  ],
+  "frames": {
+    "idle": "idle-20261011.png",
+    "blink": "blink-20261011.png",
+    "happy": "happy-20261011.png",
+    "curious": "curious-20261011.png",
+    "worried": "worried-20261011.png",
+    "sad": "sad-20261011.png",
+    "sick": "sick-20261011.png",
+    "alarmed": "alarmed-20261011.png",
+    "sleep": "sleep-20261011.png"
+  },
+  "conversion": "Shared alpha-preserving build-desktop-art-20261011.mjs, nearest-neighbor sampling at common scale",
+  "source_sha256": {
+    "alarmed-20261011.png": "e7beaf8e750acfea63f678fe353c515a4acf7016bcf100fffb5b5d79da598a7f",
+    "blink-20261011.png": "7c21a6aa4f254759800452492afd6d8369c6ca5f286392e0e4d2f65f4de39799",
+    "curious-20261011.png": "d6c7254c18f9eedf4d9a3d83c3281d10e682d63eb7ffea80735fc71bf14be21d",
+    "happy-20261011.png": "83c3345e6abcbf377089c66b720670b7edd69e08d9d39ece882d5f000b201f4d",
+    "idle-20261011.png": "83a029a901fb6435c4c23c4d78e97fc06dbd11dc392a09bd1f734347cc6dcda3",
+    "prompt-20261011.md": "e24566299c05cb1c062d6fe336f787642d00963dd2c0f4875494b08286025ee2",
+    "sad-20261011.png": "d9adab173d6c1ab47f33903f75e05bccc4ce2e296c47eb434a9b08d345bb44e5",
+    "sheet-20261011.png": "a87c885584084789e7de4f2b56fb5c64313a8405d0da37a4672c5d5f1ff0f730",
+    "sick-20261011.png": "b4ed8003d8446c22472d7c79a2da63d162d9d30479b2e5c10208fe9416385f50",
+    "sleep-20261011.png": "1a8d408922a7eae5f653605bbad566ea568499de9be121869db4d827b82eef0e",
+    "worried-20261011.png": "bb69f30eeb6ad4dc47873b661766892c639369292c8473f0f12d6a61c2a6c97a"
+  }
+}
