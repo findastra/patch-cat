@@ -8,15 +8,16 @@
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
   "art_files": [
-    "desktop-art/patch-cat/idle-20261011.png",
+    "desktop-art/patch-cat/alarmed-20261011.png",
     "desktop-art/patch-cat/blink-20261011.png",
-    "desktop-art/patch-cat/happy-20261011.png",
     "desktop-art/patch-cat/curious-20261011.png",
-    "desktop-art/patch-cat/worried-20261011.png",
+    "desktop-art/patch-cat/happy-20261011.png",
+    "desktop-art/patch-cat/idle-20261011.png",
     "desktop-art/patch-cat/sad-20261011.png",
     "desktop-art/patch-cat/sick-20261011.png",
-    "desktop-art/patch-cat/alarmed-20261011.png",
-    "desktop-art/patch-cat/sleep-20261011.png"
+    "desktop-art/patch-cat/sleep-20261011.png",
+    "desktop-art/patch-cat/worried-20261011.png"
   ],
-  "notes": "Smaller cat, white X eye bandage and cast."
+  "notes": "Smaller cat, white X eye bandage and cast.",
+  "source_sheet": "desktop-art/patch-cat/sheet-20261011.png"
 }
